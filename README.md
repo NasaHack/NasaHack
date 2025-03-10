@@ -1,8 +1,9 @@
-<h1 align='center'>একদিন যদি হারিয়ে যাই, আমায় খুঁজবে?</h1>
+<h1 align='center'>প্রতিদিন যদি কাঁদবি কেবল, একদিন নয় হাঁসবি তোরা!</h1> 
+
+[RT - 💔](https://www.google.com/search?q=rabindranath+tagore&oq=rabindra&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCggCEC4YsQMYgAQyCggDEAAYsQMYgAQyBwgEEC4YgAQyBwgFEC4YgAQyDQgGEC4YgwEYsQMYgAQyBggHEEUYPdIBCDYwODVqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+
+---
  
-<h1 align='center'>😶</h1>
-
-
 
 <!--
 
