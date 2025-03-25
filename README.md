@@ -1,5 +1,4 @@
-<h1 align='center'>Think Like An Attacker Before Designing Defenses!</h1> 
-<h1 align='center'>🤡</h1>
+<img src="https://i.ibb.co.com/pr4KNT1W/deepseek.png" alt="Deepseek" align="middle">
 ---
  
 
