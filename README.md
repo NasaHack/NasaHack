@@ -1,4 +1,4 @@
-![msg](https://i.ibb.co.com/6Jmffj6w/fun.png)
+![msg](https://i.ibb.co/j9dKddd7/ok.png)
 
 <!--
 
